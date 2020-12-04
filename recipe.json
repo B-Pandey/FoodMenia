@@ -1,12 +1,15 @@
-{
-  "recipe" :[
-    {
-      "name" : "The Dark Knight",
-      "yearReleased" : 2008,
-      "cast" : ["Christian Bale", "Heath Ledger"],
-      "director" : "Christopher Nolan",
-      "imdbRating" : 9.0
+
+  "Recipe":
+  [
+    { "RecipeName":"Old Rag Mountain",
+     "TrailTime":"5.5 hrs"
+    },
+    { "RecipeName":"Mountain",
+     "TrailTime":"5 hrs"
+    },
+    { "RecipeName":"Rag Mountain",
+     "TrailTime":"1 hrs"
     }
     ],
-    "status": "OK"
+  "Status":"OK"
 }
