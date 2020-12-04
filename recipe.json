@@ -1,9 +1,9 @@
 {
   "HikingTrails":
   [
-    {"TrailDifficulty":"Difficult","TrailName":"Old Rag Mountain"},
-    {"TrailDifficulty":"Difficult","TrailName":"White Oak Canyon \/ Cedar Run"},
-    {"TrailDifficulty":"Strenuous","TrailName":"Strickler Knob"}
+    {"TrailDifficulty":"Difficult","Name":"Old Rag Mountain"},
+    {"TrailDifficulty":"Difficult","Name":"White Oak Canyon \/ Cedar Run"},
+    {"TrailDifficulty":"Strenuous","Name":"Strickler Knob"}
   ],
   "Status":"OK"
 }
