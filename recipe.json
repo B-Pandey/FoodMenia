@@ -1,9 +1,11 @@
 {
   "Recipe":
   [
-    {"Difficulty":"Difficult","Name":"Old Rag Mountain"},
-    {"Difficulty":"Difficult","Name":"White Oak Canyon \/ Cedar Run"},
-    {"Difficulty":"Strenuous","Name":"Strickler Knob"}
+    {"Difficulty":"Difficult",
+     "Name":"Old Rag Mountain",
+    "Length":2},
+    {"Difficulty":"Difficult","Name":"White Oak Canyon \/ Cedar Run", "Length":2},
+    {"Difficulty":"Strenuous","Name":"Strickler Knob", "Length":2}
   ],
   "Status":"OK"
 }
