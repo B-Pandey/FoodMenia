@@ -3,6 +3,7 @@
 [
 {
 "FoodName":"Spaghetti Meatballs",
+ "FoodType":"Lunch",
 "FoodImage":"https://foodtasia.com/wp-content/uploads/2019/09/spaghetti-meatballs-28.jpg",
 "Calorie":"240",
 "TotalFat":"11",
@@ -15,6 +16,7 @@
 },
 {
 "FoodName":"Oven Baked Salmon",
+"FoodType":"Lunch",
 "FoodImage":"https://www.gimmesomeoven.com/wp-content/uploads/2018/09/How-To-Baked-Salmon-Recipe-9-1.jpg",
 "Calorie":"177",
 "TotalFat":"12",
@@ -27,6 +29,7 @@
 },
 {
 "FoodName":"Braised Parika Chicken",
+  "FoodType":"Lunch",
 "FoodImage":"http://1.bp.blogspot.com/_cw5Ep_KWd80/S-MjSPc_YvI/AAAAAAAAC6c/ZGGn3jIImKk/w1200-h630-p-k-no-nu/P1050176.jpg",
 "Calorie":"456",
 "TotalFat":"15.5",
@@ -39,6 +42,7 @@
 },
 {
 "FoodName":"Pan Chicken Fajitas",
+  "FoodType":"Lunch",
 "FoodImage":"https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/delish-sheet-pan-chicken-fajitas-horizontal-1544817426.jpg",
 "Calorie":"470",
 "TotalFat":"17",
@@ -51,6 +55,7 @@
 },
 {
 "FoodName":"Marinated CKN Breasts",
+  "FoodType":"Lunch",
 "FoodImage":"https://www.themediterraneandish.com/wp-content/uploads/2019/09/Best-Chicken-Marinade-Recipe-7.jpg",
 "Calorie":"327",
 "TotalFat":"16",
@@ -63,6 +68,7 @@
 },
 {
 "FoodName":"Oven Baked Salmon",
+  "FoodType":"Lunch",
 "FoodImage":"https://www.themediterraneandish.com/wp-content/uploads/2019/09/Best-Chicken-Marinade-Recipe-7.jpg",
 "Calorie":"177",
 "TotalFat":"12",
@@ -75,6 +81,7 @@
 },
 {
 "FoodName":"Oven Baked Salmon",
+  "FoodType":"Lunch",
 "FoodImage":"https://www.themediterraneandish.com/wp-content/uploads/2019/09/Best-Chicken-Marinade-Recipe-7.jpg",
 "Calorie":"177",
 "TotalFat":"12",
