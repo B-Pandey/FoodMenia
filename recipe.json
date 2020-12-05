@@ -2,7 +2,7 @@
 "Recipe":
 [
 {
-"foodName":"Spaghetti Meatballs",
+"FoodName":"Spaghetti Meatballs",
 "FoodImage":"https://foodtasia.com/wp-content/uploads/2019/09/spaghetti-meatballs-28.jpg",
 "Calorie":"240",
 "TotalFat":"11",
@@ -14,7 +14,7 @@
 "recipetURL": "https://www.foodnetwork.com/recipes/rachael-ray/spaghetti-and-meatballs-recipe-1942620"
 },
 {
-"foodName":"Oven-Baked Salmon",
+"FoodName":"Oven-Baked Salmon",
 "FoodImage":"https://www.gimmesomeoven.com/wp-content/uploads/2018/09/How-To-Baked-Salmon-Recipe-9-1.jpg",
 "Calorie":"177",
 "TotalFat":"12",
@@ -26,7 +26,7 @@
 "recipetURL": "https://www.foodnetwork.com/recipes/oven-baked-salmon-recipe-1911951"
 },
 {
-"foodName":"Braised Parika Chicken",
+"FoodName":"Braised Parika Chicken",
 "FoodImage":"http://1.bp.blogspot.com/_cw5Ep_KWd80/S-MjSPc_YvI/AAAAAAAAC6c/ZGGn3jIImKk/w1200-h630-p-k-no-nu/P1050176.jpg",
 "Calorie":"456",
 "TotalFat":"15.5",
@@ -38,7 +38,7 @@
 "recipetURL": "https://www.foodnetwork.com/recipes/aida-mollenkamp/braised-paprika-chicken-recipe-1944278"
 },
 {
-"foodName":"Pan Chicken Fajitas",
+"FoodName":"Pan Chicken Fajitas",
 "FoodImage":"https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/delish-sheet-pan-chicken-fajitas-horizontal-1544817426.jpg",
 "Calorie":"470",
 "TotalFat":"17",
@@ -50,7 +50,7 @@
 "recipetURL": "https://www.foodnetwork.com/recipes/food-network-kitchen/sheet-pan-chicken-fajitas-3680272"
 },
 {
-"foodName":"Marinated CKN Breasts",
+"FoodName":"Marinated CKN Breasts",
 "FoodImage":"https://www.themediterraneandish.com/wp-content/uploads/2019/09/Best-Chicken-Marinade-Recipe-7.jpg",
 "Calorie":"327",
 "TotalFat":"16",
@@ -62,7 +62,7 @@
 "recipetURL": "https://www.youtube.com/watch?v=LOxytXBOAiE"
 },
 {
-"foodName":"Oven-Baked Salmon",
+"FoodName":"Oven-Baked Salmon",
 "FoodImage":"https://www.themediterraneandish.com/wp-content/uploads/2019/09/Best-Chicken-Marinade-Recipe-7.jpg",
 "Calorie":"177",
 "TotalFat":"12",
@@ -74,7 +74,7 @@
 "recipetURL": ""
 },
 {
-"foodName":"Oven-Baked Salmon",
+"FoodName":"Oven-Baked Salmon",
 "FoodImage":"https://www.themediterraneandish.com/wp-content/uploads/2019/09/Best-Chicken-Marinade-Recipe-7.jpg",
 "Calorie":"177",
 "TotalFat":"12",
