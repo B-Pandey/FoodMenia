@@ -4,7 +4,7 @@
 {
 "FoodName":"Spaghetti Meatballs",
  "FoodType":"Lunch",
-"FoodImage":"https://raw.githubusercontent.com/Chitawan78/FoodMenia/main/test.jpg",
+"FoodImage":"https://raw.githubusercontent.com/Chitawan78/FoodMenia/main/SpaghettiMeatball.jpg",
 "Calorie":"240",
 "TotalFat":"11",
 "SaturatedFat": "2.2",
@@ -17,7 +17,7 @@
 {
 "FoodName":"Oven Baked Salmon",
 "FoodType":"Lunch",
-"FoodImage":"https://c.ndtvimg.com/2020-06/1od6u29o_murgh-kofte-ki-biryani_625x300_17_June_20.jpg",
+"FoodImage":"https://raw.githubusercontent.com/Chitawan78/FoodMenia/main/OvenBakedSalmon.jpg",
 "Calorie":"177",
 "TotalFat":"12",
 "SaturatedFat":"2.5",
@@ -30,7 +30,7 @@
 {
 "FoodName":"Braised Parika Chicken",
   "FoodType":"Lunch",
-"FoodImage":"https://www.ndtv.com/cooks/images/handi-biryani_article.jpg",
+"FoodImage":"https://raw.githubusercontent.com/Chitawan78/FoodMenia/main/braisedChickenBasquaise.jpg",
 "Calorie":"456",
 "TotalFat":"15.5",
 "SaturatedFat":"3",
@@ -43,7 +43,7 @@
 {
 "FoodName":"Pan Chicken Fajitas",
   "FoodType":"Lunch",
-"FoodImage":"https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/delish-sheet-pan-chicken-fajitas-horizontal-1544817426.jpg",
+"FoodImage":"https://raw.githubusercontent.com/Chitawan78/FoodMenia/main/SheetPanChickenFajitas.jpg",
 "Calorie":"470",
 "TotalFat":"17",
 "SaturatedFat":"3",
@@ -56,7 +56,7 @@
 {
 "FoodName":"Marinated CKN Breasts",
   "FoodType":"Lunch",
-"FoodImage":"https://www.ndtv.com/cooks/images/Garlic-egg-fried-rice_article.jpg",
+"FoodImage":"https://github.com/Chitawan78/FoodMenia/blob/main/OvenBakedChicken.jpg",
 "Calorie":"327",
 "TotalFat":"16",
 "SaturatedFat":"2.5",
@@ -66,10 +66,36 @@
 "Protein":"40",
 "recipetURL": "https://www.youtube.com/watch?v=LOxytXBOAiE"
 },
-{
+ {
 "FoodName":"Oven Baked Salmon",
+"FoodType":"Lunch",
+"FoodImage":"https://raw.githubusercontent.com/Chitawan78/FoodMenia/main/OvenBakedSalmon.jpg",
+"Calorie":"177",
+"TotalFat":"12",
+"SaturatedFat":"2.5",
+"Cholesterol":"47",
+"Carb":"0",
+"Dietary Fiber":"0",
+"Protein":"17",
+"recipetURL": "https://www.foodnetwork.com/recipes/oven-baked-salmon-recipe-1911951"
+},
+{
+"FoodName":"Braised Parika Chicken",
   "FoodType":"Lunch",
-"FoodImage":"https://www.ndtv.com/cooks/images/three-layered-rice_article.jpg",
+"FoodImage":"https://raw.githubusercontent.com/Chitawan78/FoodMenia/main/braisedChickenBasquaise.jpg",
+"Calorie":"456",
+"TotalFat":"15.5",
+"SaturatedFat":"3",
+"Cholesterol":"235",
+"Carb":"17",
+"Dietary Fiber":"2",
+"Protein":"60",
+"recipetURL": "https://www.foodnetwork.com/recipes/aida-mollenkamp/braised-paprika-chicken-recipe-1944278"
+},
+{
+"FoodName":"Spice Rice",
+  "FoodType":"Lunch",
+"FoodImage":"https://raw.githubusercontent.com/Chitawan78/FoodMenia/main/SpiceRice.jpg",
 "Calorie":"177",
 "TotalFat":"12",
 "SaturatedFat":"2.5",
@@ -80,9 +106,9 @@
 "recipetURL": ""
 },
 {
-"FoodName":"Oven Baked Salmon",
+"FoodName":"Masroom Risotto",
   "FoodType":"Lunch",
-"FoodImage":"https://www.themediterraneandish.com/wp-content/uploads/2019/09/Best-Chicken-Marinade-Recipe-7.jpg",
+"FoodImage":"https://raw.githubusercontent.com/Chitawan78/FoodMenia/main/MasroomRisotto.jpg",
 "Calorie":"177",
 "TotalFat":"12",
 "SaturatedFat":"2.5",
