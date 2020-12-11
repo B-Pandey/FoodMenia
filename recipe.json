@@ -3,16 +3,16 @@
 [
 {
 "FoodName":"Spaghetti Meatballs",
- "FoodType":"Lunch",
+"FoodType":"Lunch, Dinner",
 "FoodImage":"https://raw.githubusercontent.com/Chitawan78/FoodMenia/main/SpaghettiMeatball.jpg",
-"Calorie":"240",
+"Calorie":"400",
 "TotalFat":"11",
 "SaturatedFat": "2.2",
 "Cholesterol": "30",
 "Carb":"59",
 "Dietary Fiber":"10",
 "Protein":"24",
-"recipetURL": "https://www.youtube.com/watch?v=YyCRnAZ4eCc"
+"recipeURL": "https://www.youtube.com/watch?v=YyCRnAZ4eCc"
 },
 {
 "FoodName":"Oven Baked Salmon",
@@ -25,37 +25,37 @@
 "Carb":"0",
 "Dietary Fiber":"0",
 "Protein":"17",
-"recipetURL": "https://www.foodnetwork.com/recipes/oven-baked-salmon-recipe-1911951"
+"recipeURL": "https://youtu.be/Ew1qHjNXXng"
 },
 {
 "FoodName":"Braised Parika Chicken",
-  "FoodType":"Lunch",
+"FoodType":"Lunch",
 "FoodImage":"https://raw.githubusercontent.com/Chitawan78/FoodMenia/main/braisedChickenBasquaise.jpg",
-"Calorie":"456",
-"TotalFat":"15.5",
-"SaturatedFat":"3",
-"Cholesterol":"235",
+"Calorie":"237",
+"TotalFat":"6.5",
+"SaturatedFat":"2",
+"Cholesterol":"68",
 "Carb":"17",
 "Dietary Fiber":"2",
 "Protein":"60",
-"recipetURL": "https://www.youtube.com/watch?v=YyCRnAZ4eCc"
+"recipeURL": "https://www.youtube.com/watch?v=3XS4n5KFqAc"
 },
 {
 "FoodName":"Pan Chicken Fajitas",
-  "FoodType":"Lunch",
+"FoodType":"Lunch",
 "FoodImage":"https://raw.githubusercontent.com/Chitawan78/FoodMenia/main/SheetPanChickenFajitas.jpg",
-"Calorie":"470",
+"Calorie":"370",
 "TotalFat":"17",
 "SaturatedFat":"3",
 "Cholesterol":"125",
 "Carb":"34",
 "Dietary Fiber":"4",
 "Protein":"44",
-"recipetURL": "https://www.foodnetwork.com/recipes/food-network-kitchen/sheet-pan-chicken-fajitas-3680272"
+"recipeURL": "https://www.youtube.com/watch?v=189kCfVfvPs"
 },
 {
 "FoodName":"Marinated CKN Breasts",
-  "FoodType":"Lunch",
+"FoodType":"Lunch",
 "FoodImage":"https://raw.githubusercontent.com/Chitawan78/FoodMenia/main/OvenBakedChicken.jpg",
 "Calorie":"327",
 "TotalFat":"16",
@@ -64,59 +64,59 @@
 "Carb":"3",
 "Dietary Fiber":"4",
 "Protein":"40",
-"recipetURL": "https://www.youtube.com/watch?v=LOxytXBOAiE"
+"recipeURL": "https://www.youtube.com/watch?v=ONxfNWU38ic"
 },
  {
-"FoodName":"Oven Baked Salmon",
+"FoodName":"Becon Egg Cheese Sandwich",
 "FoodType":"Lunch",
-"FoodImage":"https://raw.githubusercontent.com/Chitawan78/FoodMenia/main/OvenBakedSalmon.jpg",
-"Calorie":"177",
-"TotalFat":"12",
-"SaturatedFat":"2.5",
-"Cholesterol":"47",
+"FoodImage":"https://raw.githubusercontent.com/Chitawan78/FoodMenia/main/BeconEggCheese.jpg.jpg",
+"Calorie":"470",
+"TotalFat":"20",
+"SaturatedFat":"8",
+"Cholesterol":"145",
 "Carb":"0",
 "Dietary Fiber":"0",
-"Protein":"17",
-"recipetURL": "https://www.foodnetwork.com/recipes/oven-baked-salmon-recipe-1911951"
+"Protein":"13",
+"recipeURL": "https://www.youtube.com/watch?v=IcqtUeWW-iw"
 },
 {
-"FoodName":"Braised Parika Chicken",
-  "FoodType":"Lunch",
-"FoodImage":"https://raw.githubusercontent.com/Chitawan78/FoodMenia/main/braisedChickenBasquaise.jpg",
-"Calorie":"456",
-"TotalFat":"15.5",
-"SaturatedFat":"3",
-"Cholesterol":"235",
-"Carb":"17",
-"Dietary Fiber":"2",
-"Protein":"60",
-"recipetURL": "https://www.foodnetwork.com/recipes/aida-mollenkamp/braised-paprika-chicken-recipe-1944278"
+"FoodName":"Pan Cake",
+"FoodType":"Lunch",
+"FoodImage":"https://raw.githubusercontent.com/Chitawan78/FoodMenia/main/PanCake.jpg",
+"Calorie":"64",
+"TotalFat":"3.9",
+"SaturatedFat":"0.8",
+"Cholesterol":"23.5",
+"Carb":"11.5",
+"Dietary Fiber":"1.2",
+"Protein":"2.5",
+"recipeURL": "https://www.youtube.com/watch?v=BPl7D20F2mE"
 },
 {
 "FoodName":"Spice Rice",
-  "FoodType":"Lunch",
+"FoodType":"Lunch",
 "FoodImage":"https://raw.githubusercontent.com/Chitawan78/FoodMenia/main/SpiceRice.jpg",
-"Calorie":"177",
-"TotalFat":"12",
-"SaturatedFat":"2.5",
-"Cholesterol":"47",
-"Carb":"0",
-"Dietary Fiber":"0",
-"Protein":"17",
-"recipetURL": ""
+"Calorie":"223",
+"TotalFat":"4.5",
+"SaturatedFat":"1.1",
+"Cholesterol":"44",
+"Carb":"39.8",
+"Dietary Fiber":".5",
+"Protein":"4.8",
+"recipeURL": "https://www.youtube.com/watch?v=h2vRFtFXhyw"
 },
 {
 "FoodName":"Masroom Risotto",
-  "FoodType":"Lunch",
+"FoodType":"Lunch",
 "FoodImage":"https://raw.githubusercontent.com/Chitawan78/FoodMenia/main/MasroomRisotto.jpg",
-"Calorie":"177",
-"TotalFat":"12",
+"Calorie":"367",
+"TotalFat":"14.3",
 "SaturatedFat":"2.5",
-"Cholesterol":"47",
-"Carb":"0",
-"Dietary Fiber":"0",
-"Protein":"17",
-"recipetURL": ""
+"Cholesterol":"11.7",
+"Carb":"52.7",
+"Dietary Fiber":"5",
+"Protein":"7.5",
+"recipeURL": "https://www.youtube.com/watch?v=srqZ5jsvXEc"
 }
 ],
 "Status":"OK"
