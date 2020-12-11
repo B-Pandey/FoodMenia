@@ -16,7 +16,7 @@
 },
 {
 "FoodName":"Oven Baked Salmon",
-"FoodType":"Lunch",
+"FoodType":"Dinner",
 "FoodImage":"https://raw.githubusercontent.com/Chitawan78/FoodMenia/main/OvenBakedSalmon.jpg",
 "Calorie":"177",
 "TotalFat":"12",
@@ -55,7 +55,7 @@
 },
 {
 "FoodName":"Marinated CKN Breasts",
-"FoodType":"Lunch",
+"FoodType":"Dinner",
 "FoodImage":"https://raw.githubusercontent.com/Chitawan78/FoodMenia/main/OvenBakedChicken.jpg",
 "Calorie":"327",
 "TotalFat":"16",
@@ -68,7 +68,7 @@
 },
  {
 "FoodName":"Becon Egg Cheese Sandwich",
-"FoodType":"Lunch",
+"FoodType":"Breakfast",
 "FoodImage":"https://raw.githubusercontent.com/Chitawan78/FoodMenia/main/BeconEggCheese.jpg",
 "Calorie":"470",
 "TotalFat":"20",
@@ -81,7 +81,7 @@
 },
 {
 "FoodName":"Pan Cake",
-"FoodType":"Lunch",
+"FoodType":"Breakfast",
 "FoodImage":"https://raw.githubusercontent.com/Chitawan78/FoodMenia/main/PanCake.jpg",
 "Calorie":"64",
 "TotalFat":"3.9",
@@ -94,7 +94,7 @@
 },
 {
 "FoodName":"Spice Rice",
-"FoodType":"Lunch",
+"FoodType":"Dinner",
 "FoodImage":"https://raw.githubusercontent.com/Chitawan78/FoodMenia/main/SpiceRice.jpg",
 "Calorie":"223",
 "TotalFat":"4.5",
@@ -107,7 +107,7 @@
 },
 {
 "FoodName":"Masroom Risotto",
-"FoodType":"Lunch",
+"FoodType":"Dinner",
 "FoodImage":"https://raw.githubusercontent.com/Chitawan78/FoodMenia/main/MasroomRisotto.jpg",
 "Calorie":"367",
 "TotalFat":"14.3",
