@@ -23,7 +23,7 @@
 "SaturatedFat":"2.5",
 "Cholesterol":"47",
 "Carb":"0",
-"Dietary Fiber":"0",
+"Dietary Fiber":"0.6",
 "Protein":"17",
 "recipeURL": "https://youtu.be/Ew1qHjNXXng"
 },
@@ -74,8 +74,8 @@
 "TotalFat":"20",
 "SaturatedFat":"8",
 "Cholesterol":"145",
-"Carb":"0",
-"Dietary Fiber":"0",
+"Carb":"24",
+"Dietary Fiber":"1",
 "Protein":"13",
 "recipeURL": "https://www.youtube.com/watch?v=IcqtUeWW-iw"
 },
